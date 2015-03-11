@@ -1,0 +1,23 @@
+#
+# This is a sample "scnhosts" file used by "RTWnetwork.dll for RICOH TWAIN Driver
+# Ver.3 and RICOH TWAIN Driver for Wide Scan" for Network Scanner producted by RICOH.
+#
+# This file contains the mappings of IP addresses to Network Scanner. Each entry
+# should be kept on an individual line. The IP address should be placed in the
+# first column followed by the corresponding VenderName, PorductName and 
+# RevisionLevel of Network Scanner.
+# The address and the VenderName should be separated by at least one space.
+# All numbers supplied as parts in a '.' notation must be decimal.
+# The "#" character is generally used to denote the start of a comment.
+#
+# If you want to use Network Scanner in the different segment, Please write the
+# information of the Network Scanner in "scnhosts". "RTWnetwork.dll for RICOH
+# TWAIN Driver Ver.3 and RICOH TWAIN Driver for Wide Scan" refer only the IP address
+# written in "scnhosts", can browse Network Scanner in the different segment.
+#
+# For example
+# IP address      VenderName    PorductName    RevisionLevel
+# 111.111.111.111 RICOH         imagioMF       0.0.0   
+# 222.222.222.222 RICOH         imagioMF       0.0.0
+#
+
